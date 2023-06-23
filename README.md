@@ -8,7 +8,7 @@ I used [warframe website](https://warframe.com) as reference.
 ## Additional information
 if Smooth Scrolling doesnt work, you can try enabling it by following [this tutorial](https://www.majorgeeks.com/content/page/how_to_enable_or_disable_smooth_scrolling_in_google_chrome.html#:~:text=If%20your%20Google%20Chrome%20seems,on%20the%20bottom-right%20corner.)
 
-Media query starts at 768px.
+Media query starts at 425px.
 
 ### deploy link
 https://ubiquitous-piroshki-afd52c.netlify.app
